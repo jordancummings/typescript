@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    // "001_vern",
+    // "helloworld.ts",
+    // "006_variables.ts",
+    // "008_type_alias",
+    // "009_union_types",
+    // "010_arithmetic_operators",
+    // "011_conditionals",
+    // "012_conditional_operators",
+    // "013_compound_conditionals",
+    // "015_functions",
+    // "016_function_arguments",
+    // "016_5_arrow_functions",
+    // "017_function_declarations_vs_expressions",
+    // "018_immediately_invoked_functions",
+    // "018_5_immediately_invoked_arguments",
+    // "019_closure_introductions",
+    // "022_objects",
+    // "023_interfaces",
+    // "025_interface_classes",
+    "026_namespaces",
+  ]
+}
